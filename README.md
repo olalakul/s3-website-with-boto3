@@ -1,9 +1,9 @@
-# S3 Webpage with boto3
+# S3 Website with boto3
 
-Using boto3 - the ASW SDK for python - to create a static webpage on S3. Created during "Intro to Cloud DevOps" Udacity Course.
+Using boto3 - the ASW SDK for python - to host a static website on Amazon S3. Created during "Intro to Cloud DevOps" Udacity Course.
 
 
-Jupyter notebook s3_webpage.ipynb contains the python code, which uses boto3
+Jupyter notebook s3_website.ipynb contains the python code, which uses boto3
 
 <img src="pictures/S3-Website.png" alt="Architectural Diagram for Static Website Hosting on S3" width="400"/>
 
